@@ -37,7 +37,7 @@ void run() {
 /**
  *  main
  */
-int main(int argc, const char * argv[]) {
+int main(const int argc, const char ** argv) {
 
   oatpp::base::Environment::init();
 
